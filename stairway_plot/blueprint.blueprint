@@ -1,0 +1,35 @@
+#example blueprint file
+#input setting
+popid: CHANGEPOP # id of the population (no white space)
+
+nseq: CHANGESEQS # number of sequences
+
+L: CHANGELENGTH # total number of observed nucleic sites, including polymorphic and monomorphic
+
+whether_folded: true # whethr the SFS is folded (true or false)
+
+SFS: CHANGESFS # snp frequency spectrum: number of singleton, number of doubleton, etc. (separated by white space)
+
+pct_training: 0.67 # percentage of sites for training
+
+nrand: CHANGEBREAKPOINTS # number of random break points for each try (separated by white space)
+
+project_dir: stairways # project directory
+
+stairway_plot_dir: CHANGEPATH # directory to the stairway plot files
+
+ninput: 200 # number of input files to be created for each estimation
+
+#output setting
+mu: 8.295e-9 # assumed mutation rate per site per generation
+
+year_per_generation: 1 # assumed generation time (in years)
+
+#plot setting
+
+plot_title: CHANGEPOP # title of the plot
+xrange: 0.1,1000 # Time (1k year) range; format: xmin,xmax; "0,0" for default
+yrange: 0,0 # Ne (1k individual) range; format: xmin,xmax; "0,0" for default
+xspacing: 2 # X axis spacing
+yspacing: 2 # Y axis spacing
+fontsize: 11 # Font size

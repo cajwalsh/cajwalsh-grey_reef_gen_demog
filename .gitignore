@@ -1,0 +1,12 @@
+.nextflow*
+work
+data
+!**/recall_pops_strata_nogb02.txt
+!**/vcf_pops_strata_nogb02.txt
+results
+!**/README.md
+.DS_Store
+other
+stairway_plot/stairway_plot_v2
+NeEstimator/Ne2-1M
+Stats_from_SFS_TD.R
