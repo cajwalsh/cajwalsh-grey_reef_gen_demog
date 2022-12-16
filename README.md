@@ -1,7 +1,7 @@
 # Code repository for: ***Genomic insights into the historical and contemporary demographics of the grey reef shark***
 This repository contains most of the code needed to replicate the analyses from the following paper:
 
-Cameron Walsh, Paolo Momigliano, Germain Boussarie, William Robbins, Lucas Bonnin, Cecile Fauvelot, Jeremy Kiszka, David Mouillot, Laurent Vigliola, and Stéphanie Manel (2022). ***Genomic insights into the historical and contemporary demographics of the grey reef shark***. Heredity 128(4), 225–235 DOI: 10.1038/s41437-022-00514-4
+Cameron Walsh, Paolo Momigliano, Germain Boussarie, William Robbins, Lucas Bonnin, Cecile Fauvelot, Jeremy Kiszka, David Mouillot, Laurent Vigliola, and Stéphanie Manel (2022). ***Genomic insights into the historical and contemporary demographics of the grey reef shark***. Heredity 128(4), 225–235 [DOI: 10.1038/s41437-022-00514-4](https://www.nature.com/articles/s41437-022-00514-4)
 
 To replicate the analyses presented in this paper, you would first need to download the data from Genbank (Bioproject PRJNA795958) and Zenodo (https://doi.org/10.5281/zenodo.5935133), and follow the calling and filtering processes outlined in the Supplementary Information.
 
